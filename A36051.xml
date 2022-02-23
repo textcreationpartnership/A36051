@@ -1,0 +1,423 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Directions by way of alphabet readily to find out the principal heads or subjects contained in the sacred book called David's psalms together with their respective quotations in order to the holy reading or singing of them to the great glory of God and edification of all pious Christians / composed by a great lover of all the people of God in England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36051</idno>
+            <idno type="STC">Wing D1528A</idno>
+            <idno type="STC">ESTC R29731</idno>
+            <idno type="EEBO-CITATION">11199541</idno>
+            <idno type="OCLC">ocm 11199541</idno>
+            <idno type="VID">46699</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36051)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46699)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1439:53)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Directions by way of alphabet readily to find out the principal heads or subjects contained in the sacred book called David's psalms together with their respective quotations in order to the holy reading or singing of them to the great glory of God and edification of all pious Christians / composed by a great lover of all the people of God in England.</title>
+               </titleStmt>
+               <extent>[8], 22, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata sheet at end.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms --  Concordances.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46699:1"/>
+            <pb facs="tcp:46699:1" rendition="simple:additions"/>
+            <p>DIRECTIONS BY WAY OF ALPHABET, READILY To find out the Principal HEADS or SUBJECTS contained in the Sacred BOOK CALLED <hi>DAVID'S PSALMS.</hi> TOGETHER With their reſpective Quotations, in order to the Holy Reading, or Singing of them, to the great Glory of GOD, and Edification of all PIOUS CHRISTIANS. <hi>Compoſed by a great Lover of all the Peo<g ref="char:EOLhyphen"/>ple of God in</hi> England.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1674.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:46699:2" rendition="simple:additions"/>
+            <pb facs="tcp:46699:2"/>
+            <head>A Part of Pious and Lear<g ref="char:EOLhyphen"/>ned Mr. <hi>RO<g ref="char:V">Ʋ</g>S</hi> his Preface, before his <hi>Verſion of the Pſalms into Meeter,</hi> ſo far as ſets forth the moſt excel<g ref="char:EOLhyphen"/>lent Uſe of them.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Experience of Saints, if it ſhould ſpeak what it hath found, it would with an united Voice yield an abundant Teſtimony of the manifold uſes of the <hi>Pſalms:</hi> It would ſay, that they have in them Inſtruction to increaſe Knowledge, Spiritual Fervour, to inflame Zeal, Conſolation, to Refreſh, and Re<g ref="char:EOLhyphen"/>vive Fainting Souls, Petitions to fetch Bleſ<g ref="char:EOLhyphen"/>ſings from God, Praiſes, as thankful Returns to God for his Bleſſings: Yea, it hath found in them, that Afflictions themſelves do yield Con<g ref="char:EOLhyphen"/>ſolation;
+<pb facs="tcp:46699:3"/>becauſe, though deep Afflictions over<g ref="char:EOLhyphen"/>whelm excellent Saints, yet even when they are Saints amidſt ſuch Afflictions, it finds yet farther, that Afflictions of Saints generally end in Conſolations.</p>
+            <p>The ſame Pſalms beginning, as <hi>Jonas</hi> his Prayer, in the Belly of Hell, and ending in Heaven: For the Souls of the Saints, being ſtirred up by ſharp Afflictions, to be earneſt with God, in Mournful, yet Melodious Sup<g ref="char:EOLhyphen"/>plications; God thus earneſtly Invoked, turns in unto the Soul, and His Preſence makes Heaven, even where an Hell was before: And then according to the Benefit, raiſeth the Thanksgiviving, and the Soul mounts up to a heighth of Praiſes, as it ſelf was mount<g ref="char:EOLhyphen"/>ed up from the depth of Grief, to a heighth of Deliverance, Joy, and Conſolation.</p>
+            <p>
+               <hi>Briefly,</hi> Experience will ſay, that the <hi>Pſalms</hi> are Characters, and Repreſentations of the Thought, Meditatoon, and Affection of a Sanctified Soul, throughout all the chan<g ref="char:EOLhyphen"/>ges of her Pilgrimage: So that a good man can be in no kind of State, but he ſhall find his own State in a Pſalm; and withal, find Thoughts, and Expreſſions ſutable to that State, which may improve, and make it good unto him.</p>
+            <p>And as the <hi>Pſalms</hi> have their real and inward Excellencies; ſo being outwardly fit<g ref="char:EOLhyphen"/>ted
+<pb facs="tcp:46699:3"/>to Meaſures, and by Meaſures to Sing<g ref="char:EOLhyphen"/>ing: the Singing carries a delight with it, the delight invites to a more frequent uſe, and the frequent uſe increaſeth the Profit of them; yea the ſame delight, and uſe faſteneth them more pleaſantly, and ſtrongly upon the Memo<g ref="char:EOLhyphen"/>ry, and being remembred, they are thereby ſtill at hand, and ready for more uſe, and ſo for more Profit.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:46699:4"/>
+            <head>The Authors Epiſtolatory Preface to his Following Collections and Applications upon the <hi>PSALMS.</hi>
+            </head>
+            <opener>
+               <salute>Dearly Beloved,</salute>
+            </opener>
+            <p>THE Reaſons inducing me to this work, were, first, the Holy <g ref="char:V">Ʋ</g>ſe and Benefit of the Reading and Singing of the Sacred Songs, commonly Called, <hi>David's Pſalms.</hi> The Super-Excellency of which I deſire the Reader to view, in the firſt of Pious and Lear<g ref="char:EOLhyphen"/>ned Mr. <hi>Rous</hi> his Preface, before annexed to his Verſion of them into Meeter. (The beſt ex<g ref="char:EOLhyphen"/>tant, witneſs the Honourable, and Venerable Atteſtation prefixt in its Commendation.)</p>
+            <p>Secondly, To allay the Difficulty, and leſſen the Expence of time to all Perſons, Families, and Congregations. Eſpecially the Women and Children, and to others that are unlearned; as to the ready finding out upon any Holy Subject they deſire to Read, or Sing of a proper Pſalm, or Portion.</p>
+            <p>Thirdly, That I might offer a Help to Mi<g ref="char:EOLhyphen"/>niſters and Clerks, to readily chuſe out fit Seg<g ref="char:EOLhyphen"/>ments out of the Pſalms, agreable to their Texts, to be ſung before or after their Sermons.</p>
+            <p>Fourthly, That I might humbly offer, I hope (through God's Aſſiſtance) the right ſence of
+<pb facs="tcp:46699:4"/>Myſtical and dark Texts, in that Book; by my brief Notes and Applications of them to ſome of the Reſpective Heads in this Work.</p>
+            <p>In the next place, I deſire my Reader to take this Reaſon for my adding ſometimes the whole Pſalm, or more, or fewer Verſes thereof be<g ref="char:EOLhyphen"/>fore or after the Verſes Cited, as to the Head ſought for (<hi>viz.</hi> that it was to make the Seg<g ref="char:EOLhyphen"/>ment, or Portion to be read or ſung, large e<g ref="char:EOLhyphen"/>nough, and fit for the preſent Exerciſe, many Subjects, in their reſpective Pſalms, being only mentioned in one or two Verſes thereof; ſo that ſhould I for enlargement of the Subject ſought after, cited one, or more verſes out of ſeveral other Pſalms that treat thereof: It would have rendred the Duty and Work very tedious and troubleſome in the Practice thereof: Onely I have been careful that all ſuch ſupplements are fit and convenient to be joyned to, and read, or ſung with the Subject enquired for.</p>
+            <p>And as to the two principal Heads, God, and Jeſus Chriſt, I have conceived it moſt for Edification, to place the great Attributes of God, and the chief Actings of our Savour, under their reſpective Heads.</p>
+            <p>Laſtly, I have Alphabetically contracted that Work into about Sixty four Heads, con<g ref="char:EOLhyphen"/>taining moſt of the Doctrinal, Practical, and Prophetical Subjects in the Pſalms.</p>
+            <p>That ſo the Reader may more readily turn to
+<pb facs="tcp:46699:5"/>the matter he deſires to Read or Sing; as under the Letter <hi>(G.)</hi> [God] the Letter <hi>(J.)</hi> [Jeſus Chriſt] and ſo the reſt of the Heads are to be ſpeedily found out, together with their ſe<g ref="char:EOLhyphen"/>veral Quotations in Figures; and made uſe of.</p>
+            <p>More, was it neceſſary, I might have added, but for making this Collection too big to be bound up with, and placed after the ſinging Pſalms, in Bibles of all ſizes.</p>
+            <p>My chief, and great deſign, in thus order<g ref="char:EOLhyphen"/>ing and publiſhing this work, being firſt, the Glory of the onely true and Infinite One God. Secondly, the Edification in Grace, and Ho<g ref="char:EOLhyphen"/>lineſs of you, my Dear Countrey-men of the Elect of God, in the <hi>Engliſh</hi> Nation; For whoſe Temporal, Spiritual, and Eternal Sal<g ref="char:EOLhyphen"/>vation He constantly, and fervently Prays, who is</p>
+            <closer>
+               <signed>Your Faithful Servant in Jeſus Chriſt.</signed>
+               <dateline>Dated from my Study <date>the 9th. of <hi>October, 1673.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:46699:5"/>
+            <head>Directions, by way of Al<g ref="char:EOLhyphen"/>phabet, readily to find out the Principal Heads, or Subjects, con<g ref="char:EOLhyphen"/>tained in the Sacred Book, Called, <hi>DAVID'S PSALMS,</hi> together with their Reſpective Quotations, in Order to the Holy Reading, or Singing them, to the great Glory of GOD, and Edification of all PIOUS CHRI<g ref="char:EOLhyphen"/>STIANS.</head>
+            <div type="part">
+               <head>A</head>
+               <p>
+                  <seg rend="decorInit">A</seg>Fflictions of the Saints in Soul. A Pſalm for Deli<g ref="char:EOLhyphen"/>verance, <hi>Pſal.</hi> 69. <hi>verſe</hi> 1. to the end. Affliction in Body, <hi>Pſal.</hi> 69. <hi>verſe</hi> 1. to the end. Affliction in both, <hi>Pſal.</hi> 77. <hi>ver.</hi> 1. to the end.</p>
+               <p>Anger of God againſt ſin, <hi>Pſal.</hi> 90. <hi>ver.</hi> 7. to <hi>ver.</hi> 13.</p>
+               <p>Anger of God againſt his, and his Churches
+<pb n="2" facs="tcp:46699:6"/>Enemies, <hi>Pſal.</hi> 21. <hi>ver.</hi> 8. to the end. <hi>Pſal.</hi> 69. <hi>ver.</hi> 24. to <hi>ver.</hi> 29. Anger of God is ſhort againſt his Saints, <hi>Pſal.</hi> 30. <hi>ver.</hi> 1. to the end. <hi>Pſal.</hi> 85. <hi>ver.</hi> 1, 2, 3. Anger of God againſt them for their Sins. <hi>Pſal.</hi> 14. <hi>ver.</hi> 1. to <hi>ver.</hi> 10. Anger, or Zeal of the Saints againſt Sin. <hi>Pſal.</hi> 106. <hi>ver.</hi> 28. to <hi>ver.</hi> 32. (See further in Zeal) Anger and Frettings is Evil. The Lord's Counſel againſt it. <hi>Pſal.</hi> 37. <hi>ver.</hi> 1. to <hi>ver.</hi> 12.</p>
+               <p>Angels, their Nature, <hi>Pſal.</hi> 104. <hi>ver.</hi> 1. to <hi>ver.</hi> 5. Their Office. <hi>Pſal.</hi> 34. <hi>ver.</hi> 1. to <hi>ver.</hi> 8. <hi>Pſal.</hi> 91. <hi>ver.</hi> 9, 10, 11, 12.</p>
+               <p>Angels, Their Office to Execute God's Judgments upon his Enemies, <hi>Pſal.</hi> 35. <hi>ver.</hi> 1. to <hi>ver.</hi> 11. <hi>Pſal.</hi> 78. <hi>ver.</hi> 40. to <hi>v.</hi> 54.</p>
+               <p>Angels, their Number, <hi>Pſal.</hi> 68. <hi>ver.</hi> 14, 15, 16, 17.</p>
+            </div>
+            <div type="part">
+               <head>B</head>
+               <p>Bleſſedneſs of the Saints that are Charita<g ref="char:EOLhyphen"/>ble to the Poor, <hi>Pſal.</hi> 41. to <hi>ver.</hi> 4.</p>
+               <p>Bloody Men, or Murderers, Their Pu<g ref="char:EOLhyphen"/>niſhments, <hi>Pſal.</hi> 5. <hi>ver.</hi> 1. to <hi>ver.</hi> 7. <hi>Pſal.</hi> 9. <hi>ver.</hi> 11, 12. <hi>Pſal.</hi> 79. <hi>ver.</hi> 9. to the end. <hi>Pſal.</hi> 94. <hi>ver.</hi> 20. to the end. <hi>Pſal.</hi> 26. <hi>ver.</hi> 8. to the end. <hi>Pſal.</hi> 55. <hi>ver.</hi> 19. to the end. <hi>Pſal.</hi> 5. <hi>ver.</hi> 1. to <hi>ver.</hi> 6. <hi>Pſal.</hi> 139. <hi>ver.</hi> 19. to <hi>ver.</hi> 23.</p>
+               <p>Bleſſedneſs of the Saints upon Earth, <hi>Pſal.</hi>
+                  <pb n="3" facs="tcp:46699:6"/>147. <hi>ver.</hi> 11. to <hi>ver.</hi> 15. <hi>Pſal.</hi> 112. <hi>ver.</hi> 12. to the end. <hi>Pſal.</hi> 115. <hi>ver.</hi> 13. to <hi>ver.</hi> 17. <hi>Pſal.</hi> 119. <hi>ver.</hi> 1, 2, 3. <hi>Pſal.</hi> 1. to <hi>ver.</hi> 4. <hi>Pſal.</hi> 37. <hi>ver.</hi> 3. to <hi>ver.</hi> 12. <hi>Pſal.</hi> 128. <hi>ver.</hi> 1. to the end. <hi>Pſal.</hi> 37. <hi>ver.</hi> 22. to <hi>ver.</hi> 27.</p>
+            </div>
+            <div type="part">
+               <head>C</head>
+               <p>Creation, and forming of the Heavens, and the parts thereof, <hi>Pſal.</hi> 19. <hi>ver.</hi> 1. to <hi>v.</hi> 7. <hi>Pſal.</hi> 8. <hi>ver.</hi> 1. to the end. <hi>Pſal.</hi> 134. <hi>ver.</hi> 1. to the end. <hi>Pſal.</hi> 148. <hi>ver.</hi> 1. to the end. All Pſalms Indited for the Sabbath day.</p>
+               <p>Creation of the Earth and Seas, and parts thereof, <hi>Pſal.</hi> 24. <hi>ver.</hi> 1. to <hi>v.</hi> 7.</p>
+               <p>Children and a good Wife, a great Bleſ<g ref="char:EOLhyphen"/>ſing to the Saints, <hi>Pſal.</hi> 127. <hi>ver.</hi> 1. to the end. <hi>Pſal.</hi> 128. <hi>ver.</hi> 1. to the end.</p>
+               <p>Charity to Mankind, eſpecially to the Saints, The bleſſing upon ſuch, <hi>Pſal.</hi> 41. <hi>ver.</hi> 1, 2, 3. See Love.</p>
+               <p>Conſtancy in goodneſs in Men very rare, <hi>Pſal.</hi> 12. <hi>ver.</hi> 1. to <hi>v.</hi> 5. The reward of ſuch, <hi>Pſal.</hi> 101. to the end. And to <hi>David</hi>-like Governors.</p>
+               <p>Church, Her Prayer for deliverance from Enemies, in <hi>Pſal.</hi> 124. <hi>ver.</hi> 1. to the end.</p>
+               <p>The Churches Deprecation againſt all <hi>Ahithophels,</hi> and <hi>Judas</hi>-like Enemies, <hi>Pſal.</hi> 109. <hi>ver.</hi> 1. to the end. and <hi>Pſal.</hi> 129. <hi>ver.</hi> 1. to the end.</p>
+               <pb n="4" facs="tcp:46699:7"/>
+               <p>The Sufferings of Chriſt and his Church are ſet down under the Type of <hi>David</hi> and his Sons, together with God's unchangable Love to them, in <hi>Pſal.</hi> 99. from <hi>ver.</hi> 19. to the end. And in <hi>Pſal.</hi> 132. <hi>ver.</hi> 6. to the end.</p>
+               <p>The Churches Glory, and its Members, in <hi>Pſal.</hi> 87. <hi>ver.</hi> 1. to the end. The won<g ref="char:EOLhyphen"/>derful and ſecret Providences of God, in the Salvation of his Church, in <hi>Pſal.</hi> 77. <hi>ver.</hi> 13. to the end. The Churches Excel<g ref="char:EOLhyphen"/>lency, in <hi>Pſal.</hi> 45. <hi>ver.</hi> 9. to the end.</p>
+            </div>
+            <div type="part">
+               <head>D</head>
+               <p>Death. No unconverted Worldling can deliver himſelf from the Corporal, Spiritu<g ref="char:EOLhyphen"/>al, and Eternal Death, <hi>Pſal.</hi> 49. <hi>ver.</hi> 1. to <hi>v.</hi> 16. Death no time for Repentance, and the Service of God, <hi>Pſal.</hi> 6. <hi>ver.</hi> 1. to the end. Being a Pſalm for a ſick Man.</p>
+               <p>Death God's Avenger of Sin, <hi>Pſal.</hi> 7. <hi>ver.</hi> 11. to the end.</p>
+               <p>Death, Deliverance from Death is at<g ref="char:EOLhyphen"/>tained by Prayers to God, <hi>Pſal.</hi> 18. <hi>ver.</hi> 1. to <hi>v.</hi> 7. <hi>Pſal.</hi> 116. <hi>ver.</hi> 1. to <hi>v.</hi> 16. And in <hi>Pſal.</hi> 22. <hi>ver.</hi> 14. to <hi>v.</hi> 27. (Wherein is a Propheſie of our Saviours Paſſion) read alſo, <hi>Pſal.</hi> 56. <hi>ver.</hi> 10. to the end. <hi>Pſal.</hi> 116. <hi>ver.</hi> 12. to the end. <hi>Pſal.</hi> 118. <hi>ver.</hi> 14. to <hi>v.</hi> 22. <hi>Pſal.</hi> 33. <hi>ver.</hi> 18. to the end. <hi>Pſal.</hi>
+                  <pb n="5" facs="tcp:46699:7"/>68. <hi>ver.</hi> 19. to <hi>v.</hi> 22. <hi>Pſal.</hi> 9. <hi>ver.</hi> 9. to <hi>v.</hi> 15.</p>
+               <p>Diſſimulation and Flatterers, the Puniſh<g ref="char:EOLhyphen"/>ment of it, <hi>Pſal.</hi> 5. <hi>verſe.</hi> 6, 7, 8, 9, 10. with <hi>Pſal.</hi> 12. <hi>verſe.</hi> 1. to <hi>verſe.</hi> 6.</p>
+               <p>Delight in God, and in his Law, <hi>Pſal.</hi> 1. <hi>verſe</hi> 1. to the end. <hi>Pſal.</hi> 119. <hi>verſe.</hi> 1. to the end. <hi>Pſal.</hi> 37. <hi>verſe</hi> 4, 5, 6. <hi>Pſal.</hi> 16. <hi>verſe</hi> 1, 2, 3.</p>
+               <p>Delight in Evil, their Puniſhment, <hi>Pſal.</hi> 62. <hi>verſe</hi> 1. to 8. <hi>Pſal.</hi> 68. <hi>verſe</hi> 28. to <hi>v.</hi> 31.</p>
+            </div>
+            <div type="part">
+               <head>E</head>
+               <p>Enemies of God, and his Saints, their Puniſhment, <hi>Pſal.</hi> 17. <hi>verſe</hi> 1. to the end. <hi>Pſal.</hi> 70. <hi>verſe</hi> 1. to the end. <hi>Pſal.</hi> 140. <hi>verſe</hi> 1. to the end. <hi>Pſal.</hi> 144. <hi>verſe</hi> 1. to <hi>verſe</hi> 11. <hi>Pſal.</hi> 142. <hi>verſe</hi> 1. to the end. <hi>Pſal.</hi> 143. <hi>ver.</hi> 1. to the end. <hi>Pſal.</hi> 71. <hi>verſe</hi> 1. to the end. <hi>Pſal.</hi> 91. <hi>verſe</hi> 1. to the end. <hi>Pſal.</hi> 13. <hi>verſe</hi> 1. to the end.</p>
+               <p>A <hi>Pſalm</hi> for a Conqueror over Gods, and the Churches Enemies, in the Perſon of <hi>David,</hi> Pſal. 18. <hi>verſe</hi> 1. to the end.</p>
+               <p>A Prayer, or <hi>Pſalm</hi> againſt the Churches Enemies, <hi>Pſal.</hi> 60. <hi>verſe</hi> 1. to the end. Alſo, <hi>Pſal.</hi> 31. <hi>verſe</hi> 1. to <hi>verſe</hi> 19.</p>
+               <p>A <hi>Pſalm</hi> of Praiſe for Deliverance from great Enemies, <hi>Pſal.</hi> 34. <hi>verſe</hi> 1. to the end. <hi>Pſal.</hi> 44. <hi>verſe</hi> 9. to the end. <hi>Pſal.</hi> 35. <hi>verſe</hi> 1. to the end. <hi>Pſal.</hi> 45. <hi>verſe</hi> 1. to <hi>verſe</hi> 9.
+<pb n="6" facs="tcp:46699:8"/>And <hi>Pſal.</hi> 54. <hi>verſe</hi> 1. to the end.</p>
+               <p>Evil Words, God's Counſel to prevent them, <hi>Pſal.</hi> 34. <hi>verſe</hi> 11. to <hi>verſe</hi> 15. <hi>Pſal.</hi> 141. <hi>verſe</hi> 1. to the end.</p>
+               <p>Evil Words, God's Judgment againſt them, <hi>Pſal.</hi> 12. <hi>verſe</hi> 1. to <hi>verſe</hi> 6. <hi>Pſal.</hi> 50. <hi>verſe</hi> 16. to the end. <hi>Pſal.</hi> 52. <hi>verſe</hi> 1. to the end.</p>
+               <p>A Prayer againſt ſuch, <hi>Pſal.</hi> 64. <hi>verſe</hi> 1. to the end. <hi>Pſal.</hi> 73. <hi>verſe</hi> 1. to <hi>verſe</hi> 21. <hi>Pſal.</hi> 120. <hi>verſe</hi> 1. to the end.</p>
+            </div>
+            <div type="part">
+               <head>F</head>
+               <p>Faith in God, <hi>Pſal.</hi> 17. <hi>verſe</hi> 3. to <hi>verſe</hi> 8. <hi>Pſal.</hi> 55. <hi>verſe</hi> 22, 23. <hi>Pſal.</hi> 57. <hi>verſe</hi> 1. to the end. <hi>Pſal.</hi> 16. <hi>verſe</hi> 1. to <hi>verſe</hi> 6. <hi>Pſal.</hi> 62. <hi>verſe</hi> 1. to the end. <hi>Pſal.</hi> 40. <hi>verſe</hi> 1. to the end. <hi>Pſal.</hi> 63. <hi>verſe</hi> 1. to the end. <hi>Pſal.</hi> 108. <hi>verſe</hi> 1. to the end. <hi>Pſal.</hi> 123. to the end.</p>
+               <p>Fortitude, or Courage for a good Cauſe, ſee the Example of <hi>David,</hi> in <hi>Pſal.</hi> 18. <hi>verſe</hi> 20. to the end. <hi>Pſal.</hi> 27. <hi>verſe</hi> 1. to the end.</p>
+               <p>Fear of God, the Rewards, and bleſſed<g ref="char:EOLhyphen"/>neſs of ſuch, <hi>Pſal.</hi> 31. <hi>verſe</hi> 19. to the end. <hi>Pſal.</hi> 80. <hi>verſe</hi> 11. to <hi>verſe</hi> 14. <hi>Pſal.</hi> 19. <hi>verſe</hi> 7. to the end. <hi>Pſal.</hi> 111. <hi>verſe</hi> 1. to the end.</p>
+               <p>Folly, or Fooliſhneſs of Wicked men, <hi>Pſal.</hi> 53. <hi>verſe</hi> 1. to the end. <hi>Pſal.</hi> 36. <hi>verſe</hi> 1.
+<pb n="7" facs="tcp:46699:8"/>to <hi>verſe</hi> 5. <hi>Pſal.</hi> 49. <hi>verſe</hi> 1. to <hi>verſe</hi> 16. <hi>Pſal.</hi> 5. <hi>verſe</hi> 1. to <hi>verſe</hi> 5. <hi>Pſal.</hi> 11. <hi>verſe</hi> 1. to the end.</p>
+            </div>
+            <div type="part">
+               <head>G</head>
+               <p>God is to be Praiſed and Glorified in all his Infinite Attributes, <hi>Pſal.</hi> 36. <hi>verſe</hi> 5. to the end. <hi>Pſal.</hi> 145. <hi>verſe</hi> 1. to the end. <hi>Pſal.</hi> 147. <hi>verſe</hi> 1. to the end.</p>
+               <p>God is to be praiſed, and feared when he ſpeaks to us in his voice of Thunder, <hi>Pſal.</hi> 29. <hi>verſe</hi> 3. to the end.</p>
+               <p>God's Power declared in the Creation, <hi>Pſal.</hi> 33. <hi>verſe</hi> 6. to <hi>verſe</hi> 12. In His Provi<g ref="char:EOLhyphen"/>dences, <hi>Pſal.</hi> 33. <hi>verſe</hi> 12. to the end. <hi>Pſal.</hi> 112. <hi>verſe</hi> 1. to the end, <hi>Pſal.</hi> 114. <hi>verſe</hi> 1. to the end. <hi>Pſ.</hi> 118. <hi>v.</hi> 1. to the end.</p>
+               <p>Gods Power in forming of Man in the Womb, <hi>Pſal.</hi> 139 <hi>verſe</hi> 13. to the end. Gods Holineſs, <hi>Pſal.</hi> 30. <hi>verſe</hi> 1. to <hi>verſe</hi> 6. <hi>Pſal.</hi> 47. <hi>verſe</hi> 6. to the end. <hi>Pſal.</hi> 60. <hi>verſe</hi> 4, 5, 6. <hi>Pſal.</hi> 89. <hi>verſe</hi> 35, 36, 37. <hi>Pſal.</hi> 93. <hi>verſe</hi> 1. to the end. <hi>Pſal.</hi> 97. <hi>verſe</hi> 10, 11, 12. <hi>Pſal.</hi> 22. <hi>verſe</hi> 3, 4, 5. <hi>Pſal.</hi> 99. <hi>ver.</hi> 1. to the end. <hi>Pſal.</hi> 145. <hi>ver.</hi> 17. to the end. <hi>Pſal.</hi> 33. <hi>ver.</hi> 20. to the end. <hi>Pſal.</hi> 103.<hi>ver.</hi> 1. to <hi>v.</hi> 6. <hi>Pſal.</hi> 105. <hi>ver.</hi> 1, 2, 3. <hi>Pſal.</hi> 106. <hi>ver.</hi> 47, 48: Pſal. 111. <hi>ver.</hi> 6. to the end.</p>
+               <p>God's Omnipreſency, and Omniſciency, <hi>Pſal.</hi> 139. <hi>ver.</hi> 1. to <hi>ver.</hi> 13.</p>
+               <pb n="8" facs="tcp:46699:9"/>
+               <p>God's Wiſdome, <hi>Pſal.</hi> 104. <hi>ver.</hi> 24. to <hi>v.</hi> 32. <hi>Pſal.</hi> 136. <hi>ver.</hi> 1. to <hi>v.</hi> 10. <hi>Pſal.</hi> 94. <hi>ver.</hi> 8. to <hi>v.</hi> 12.</p>
+               <p>Gods Love, Mercy, and Free-Grace to his Saints, <hi>Pſal.</hi> 87. <hi>ver.</hi> 1 to the end, <hi>Pſal.</hi> 25. <hi>ver.</hi> 10. to the end. <hi>Pſal.</hi> 118. <hi>ver.</hi> 1 to the end. <hi>Pſal.</hi> 136. <hi>ver.</hi> 1. to the end. <hi>Pſal.</hi> 146. <hi>ver.</hi> 5. to the end.</p>
+               <p>God's Truth &amp; Faithfulneſs, <hi>Pſ.</hi> 119 <hi>v.</hi> 137. to <hi>v.</hi> 145. <hi>Pſ.</hi> 25. <hi>v.</hi> 8, 9, 10. <hi>Pſ.</hi> 86. <hi>v</hi> 12. to the end. <hi>Pſ.</hi> 85. <hi>v.</hi> 16. to the end. <hi>Pſ.</hi> 89 <hi>v.</hi> 14. to <hi>v.</hi> 19. <hi>Pſ.</hi> 96. <hi>v.</hi> 10. to the end. <hi>Pſ.</hi> 98. <hi>v</hi> 1. to <hi>v.</hi> 4. <hi>Pſ.</hi> 160. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 117. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 119. <hi>ver.</hi> 145. to <hi>v.</hi> 153. <hi>Pſal.</hi> 146. <hi>ver.</hi> 5 to <hi>v.</hi> 8. <hi>Pſal.</hi> 91. <hi>ver.</hi> 1. to the end.</p>
+               <p>God's Goodneſs to his Saints, <hi>Pſal.</hi> 31. <hi>ver.</hi> 19. to the end. <hi>Pſal.</hi> 33. <hi>ver.</hi> 1 to <hi>v.</hi> 6. <hi>Pſal.</hi> 121. <hi>v.</hi> 1. to the end.</p>
+               <p>God's Patience, and Long-ſuffering, <hi>Pſal.</hi> 95. <hi>ver.</hi> 6. to the end.</p>
+               <p>God's Juſtice, and Righteouſneſs, <hi>Pſal.</hi> 89. <hi>ver.</hi> 14. to <hi>v.</hi> 19. <hi>Pſal.</hi> 51. <hi>ver.</hi> 1. to <hi>v.</hi> 5. The Righteouſneſs of his Laws, <hi>Pſal.</hi> 19 <hi>ver.</hi> 7. to <hi>v.</hi> 12. <hi>Pſal.</hi> 119. <hi>ver.</hi> 73 to <hi>v.</hi> 76. <hi>Pſal.</hi> 45. <hi>ver.</hi> 3, 4, 5, 6, 7. <hi>Pſal.</hi> 33. <hi>ver.</hi> 1. to <hi>v.</hi> 6. <hi>Pſal.</hi> 7. <hi>ver.</hi> 8. to the end. <hi>Pſal.</hi> 116. <hi>ver.</hi> 1. to <hi>v.</hi> 10. <hi>Pſal.</hi> 48. <hi>ver.</hi> 8. to the end. <hi>Pſal.</hi> 72. <hi>ver.</hi> 1. to <hi>v.</hi> 8. <hi>Pſal.</hi> 85. <hi>ver.</hi> 10. to the end. <hi>Pſal.</hi> 22. <hi>ver.</hi> 27. to the end. <hi>Pſal.</hi> 50. <hi>ver.</hi> 1. to <hi>v.</hi> 7. <hi>Pſal.</hi> 94. <hi>ver.</hi>
+                  <pb n="9" facs="tcp:46699:9"/>1. to <hi>v.</hi> 4. <hi>Pſal.</hi> 36. <hi>ver.</hi> 5. to <hi>v.</hi> 10.</p>
+               <p>God is Life, and the Fountain of Life, <hi>Pſal.</hi> 36. <hi>ver.</hi> 5. to <hi>v.</hi> 11. <hi>Pſal.</hi> 16. <hi>ver.</hi> 5. to the end. <hi>Pſal.</hi> 21. <hi>ver.</hi> 1. to <hi>v.</hi> 7. <hi>Pſal.</hi> 30. <hi>ver.</hi> 1. to <hi>v.</hi> 6. <hi>Pſal.</hi> 66. <hi>ver.</hi> 7. to <hi>v.</hi> 10. <hi>Pſal.</hi> 133. <hi>ver.</hi> 1. to the end.</p>
+               <p>God is Eternal, <hi>Pſ.</hi> 41. <hi>v.</hi> 11. to <hi>v.</hi> 14. <hi>Pſ.</hi> 90 <hi>v.</hi> 1. to <hi>v</hi> 7. <hi>Pſ.</hi> 93. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 100. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 103. <hi>v.</hi> 13. to <hi>v.</hi> 19. <hi>Pſ.</hi> 136. <hi>ver.</hi> 47, 48. <hi>Pſal.</hi> 119. <hi>ver.</hi> 142. to <hi>v.</hi> 145. <hi>Pſal.</hi> 139. <hi>v.</hi> 17. to the end. <hi>Pſal.</hi> 145. <hi>ver.</hi> 10. to <hi>v.</hi> 14. <hi>Pſal.</hi> 92. <hi>ver.</hi> 5. to <hi>v</hi> 9.</p>
+               <p>God's Glory, and Chriſt's, <hi>Pſal.</hi> 24. <hi>ver.</hi> 1. to the end. <hi>Pſal.</hi> 79. <hi>ver.</hi> 9. to the end. <hi>Pſal.</hi> 145. <hi>ver.</hi> 10. to <hi>v.</hi> 14. <hi>Pſal.</hi> 19. <hi>ver.</hi> 1. to <hi>v.</hi> 7. <hi>Pſal.</hi> 96. <hi>ver.</hi> 1. to the end. <hi>Pſal.</hi> 72. <hi>ver.</hi> 1. to the end. <hi>Pſal.</hi> 97. <hi>ver.</hi> 1. to <hi>v.</hi> 7.<hi>Pſal.</hi> 102. <hi>ver.</hi> 13. to <hi>v.</hi> 19. <hi>Pſal.</hi> 113 <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 104. <hi>ver.</hi> 31. to the end. <hi>Pſal.</hi> 138. <hi>ver.</hi> 4. to the end. <hi>Pſal.</hi> 8. <hi>ver.</hi> 1. to the end. <hi>Pſal.</hi> 45. <hi>ver.</hi> 1. to the end. <hi>Pſal</hi> 63. <hi>ver.</hi> 1. to <hi>v.</hi> 6. <hi>Pſal.</hi> 145. <hi>ver.</hi> 1 to <hi>v.</hi> 10.</p>
+               <p>God is the Fountain of all Spiritual Gifts, Light, and Saving Graces, <hi>Pſal.</hi> 97. <hi>ver.</hi> 7. to the end. <hi>Pſal.</hi> 112. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 84. <hi>v.</hi> 8. to the end. <hi>Pſal.</hi> 45. <hi>v.</hi> 1. to <hi>v.</hi> 9. <hi>Pſal.</hi> 68. <hi>v.</hi> 15. to <hi>v.</hi> 21. <hi>Pſal.</hi> 4. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 27. <hi>v.</hi> 1. to <hi>v.</hi> 5. <hi>Pſal</hi> 36. <hi>v</hi> 7. to the end. <hi>Pſal.</hi> 43. <hi>v.</hi> 3. to the end.</p>
+               <p>God is to be Praiſed, Obſerved and Truſt<g ref="char:EOLhyphen"/>ed
+<pb n="10" facs="tcp:46699:10"/>in all his works of Providences, <hi>Pſal.</hi> 127. <hi>ver.</hi> 1. to the end. <hi>Pſal.</hi> 107. <hi>ver.</hi> 1. to the end. See farther God's Providences, and actings in the Head of <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> Litteral, their Deliverances out of <hi>Aegypt,</hi> in the <hi>Wilderneſs,</hi> and in <hi>Canaan.</hi>
+               </p>
+               <p>God's Works of Creation, ſee Creation.</p>
+               <p>God's Word, its Excellency, <hi>Pſal.</hi> 12. <hi>v.</hi> 1. to <hi>v.</hi> 6. <hi>Pſal.</hi> 119. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 19. <hi>v.</hi> 7. to the end. <hi>Pſal.</hi> 18. <hi>v</hi> 30. to <hi>v.</hi> 37. <hi>Pſal.</hi> 33. <hi>v.</hi> 1. to <hi>v.</hi> 13.</p>
+               <p>God's Works of Temporal Salvation to his Saints, <hi>Pſal.</hi> 3. <hi>v.</hi> 1. to the end <hi>Pſal.</hi> 35. <hi>v.</hi> 1. to <hi>v.</hi> 11. <hi>Pſal.</hi> 65. <hi>v.</hi> 1. to <hi>v.</hi> 6. <hi>Pſal.</hi> 68. <hi>v.</hi> 17. to <hi>v.</hi> 22.</p>
+               <p>God's Works of Spiritual Salvation, <hi>Pſal.</hi> 37. <hi>v.</hi> 37. to the end. <hi>Pſal.</hi> 50. <hi>v.</hi> 14. to the end. <hi>Pſal.</hi> 79. <hi>v.</hi> 8. to <hi>v.</hi> 11. <hi>Pſal.</hi> 95. <hi>v.</hi> 1. to the end.</p>
+               <p>God's Eternal Salvation, <hi>Pſal.</hi> 24. <hi>v.</hi> 3. to <hi>v.</hi> 7. <hi>Pſal.</hi> 149. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 132. <hi>v.</hi> 13. to the end. <hi>Pſal.</hi> 62. <hi>v.</hi> 1. to the end.</p>
+            </div>
+            <div type="part">
+               <head>H</head>
+               <p>Happineſs of the Saints, <hi>Pſal.</hi> 65. <hi>v.</hi> 1. to the end.</p>
+               <p>Humility, <hi>Pſal.</hi> 16. <hi>v.</hi> 5. to <hi>v.</hi> 12. Its Pat<g ref="char:EOLhyphen"/>tern in <hi>David, Pſal.</hi> 131. <hi>v.</hi> 1. to the end. Gods care of humble Saints, <hi>Pſal.</hi> 9. <hi>v.</hi> 6. to <hi>v.</hi> 13.</p>
+               <p>Holineſs of the Saints, their Character, and Bleſſedneſs, <hi>Pſal.</hi> 112. <hi>v.</hi> 1. to the end.
+<pb n="11" facs="tcp:46699:10"/>
+                  <hi>Pſal.</hi> 15. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 24. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 23. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 16. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 32.<hi>v.</hi> 1. to <hi>v.</hi> 8. <hi>Pſal.</hi> 37. <hi>v.</hi> 22. to <hi>v.</hi> 27. The holy Saints Delight, <hi>Pſal.</hi> 84. <hi>v.</hi> 1. to the end. Their Safety, <hi>Pſal.</hi> 125. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 92. <hi>v.</hi> 12. to the end.</p>
+            </div>
+            <div type="part">
+               <head>I</head>
+               <p>Idolatry, its Sin, and Puniſhment, <hi>Pſal.</hi> 135. <hi>v.</hi> 13. to the end. <hi>Pſal.</hi> 115. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 16. <hi>v.</hi> 1. to <hi>v.</hi> 5.</p>
+               <p>Judgments againſt wicked Judges, <hi>Pſal.</hi> 58. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 82. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 94. <hi>v.</hi> 1. to the end.</p>
+               <p>Jeſus Chriſt our Lord, his Incarnation, and the bleſſed Fruits thereof, <hi>Pſal.</hi> 85. <hi>v.</hi> 10. to <hi>v.</hi> 14.</p>
+               <p>Jeſus Chriſt our Lord, his Paſſion, eſpeci<g ref="char:EOLhyphen"/>ally upon the Croſs, for the ſins of the World, <hi>Pſal.</hi> 22. <hi>v.</hi> 1. to <hi>v.</hi> 22. <hi>Pſal.</hi> 69. <hi>v.</hi> 20. to the end. <hi>Pſal.</hi> 88 <hi>v.</hi> 1. to <hi>v.</hi> 11.</p>
+               <p>Jeſus Chriſt our Lord, his Reſurrection, <hi>Pſal.</hi> 16. <hi>v.</hi> 7. to the end.</p>
+               <p>Jeſus Chriſt our Lord, his firſt and ſecond Aſcention to Heaven, <hi>(viz.)</hi> from the Old World after his Reſurrection, and from the Renewed Earth, after the day of Judgment, <hi>Pſal.</hi> 24. <hi>v.</hi> 7. to the end.</p>
+               <p>Jeſus Chriſt our Lord, is our King, our Prophet, and our Prieſt, <hi>Pſal.</hi> 110. <hi>v.</hi> 1. to the end.</p>
+               <pb n="12" facs="tcp:46699:11"/>
+               <p>Jeſus Chriſt our Lord, his Spiritual King<g ref="char:EOLhyphen"/>dome, <hi>Pſal.</hi> 45. <hi>v.</hi> 9. to the end, His Spiritual Kingdom in the Converſion of the whole world after the binding up of Satan for 1000 years <hi>Rev.</hi> 20.1, 2, 3. ſet forth in <hi>Pſal.</hi> 66. <hi>v.</hi> 1. to <hi>v.</hi> 16. <hi>Pſal.</hi> 67. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 72. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 117. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 128. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 10. <hi>v.</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, to the end. <hi>Pſal.</hi> 110. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 149. <hi>v.</hi> 1. to the end.</p>
+               <p>Jeſus Chriſt our Lord, his Victorious Kingdom, <hi>Pſal.</hi> 2. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 110. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 149. <hi>v.</hi> 1 to the end. <hi>Pſ.</hi> 76. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 89. <hi>v.</hi> 1. to <hi>v.</hi> 19. <hi>Pſal.</hi> 21. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 45. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 46. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 48. <hi>v.</hi> 1. to the end. In this Pſalm is predicted Litteral <hi>Iſraels</hi> great Victory over the <hi>Turk,</hi> and all other Enemies at their Siege of <hi>Jeruſalem, Pſal.</hi> 58 <hi>v.</hi> 6. to the end. <hi>Pſal.</hi> 68. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 72. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 47. <hi>v.</hi> 1. to the end.</p>
+               <p>Jeſus Chriſt our Lord, his peaceable King<g ref="char:EOLhyphen"/>dome upon this Earth, by his Saints for 1000 years, the time of Satans binding, <hi>Rev.</hi> 20.1, 2, 3. <hi>Pſal.</hi> 47. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 72. <hi>v.</hi> 1. to the end. <hi>Pſal.</hi> 93. <hi>v.</hi> 1. to the end. Note that the victorious and peaceable King<g ref="char:EOLhyphen"/>dome of Chriſt by his Saints is not only ſet forth in this 93. <hi>Pſal.</hi> but in all the ſeven fol<g ref="char:EOLhyphen"/>lowing
+<pb n="13" facs="tcp:46699:11"/>Pſalms, from their beginning to the end; (<hi>viz.</hi> in <hi>Pſal.</hi> 94, 95, 96, 97, 98, 99, &amp; the 100. <hi>Pſalm.</hi>) <hi>Pſ.</hi> 145. <hi>v.</hi> 10. to <hi>v.</hi> 14.</p>
+               <p>Jeſus Chriſt our Lord, his Juditiary Kingdom, before and at the laſt day of Judg<g ref="char:EOLhyphen"/>ment, <hi>Pſ.</hi> 50. <hi>v.</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. to <hi>v</hi> 7. <hi>Pſ</hi> 89. <hi>v.</hi> 2. to <hi>v.</hi> 19. <hi>Pſal.</hi> 72. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 76. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 75. <hi>v.</hi> 1. to the end.</p>
+               <p>Jeſus Chriſt our Lord, his glorious King<g ref="char:EOLhyphen"/>dome with his Saints firſt upon the new Earth, and for Eternity in the higheſt Hea<g ref="char:EOLhyphen"/>vens, <hi>Pſ.</hi> 37. <hi>v.</hi> 1. to <hi>v</hi> 35. Note that the Sts. glorious Reign with Chriſt in Perſon upon the renewed Earth and Heaven is undeniab<g ref="char:EOLhyphen"/>ly proved in this 37. Pſalm, by 7 Texts or Propheſies, <hi>(viz.)</hi> in <hi>v.</hi> 9, 11, 18, 22, 27, 29, &amp; 34. which having not yet been fulfilled, ſhall certainly then be accompliſhed, <hi>Amen.</hi>
+               </p>
+               <p>Innocency, <hi>Pſ.</hi> 6. <hi>v.</hi> 1. to <hi>v.</hi> 8. See farther in the Head of Uprightneſs.</p>
+               <p>
+                  <hi>Iſrael</hi> Litteral, her Excellency before her Defection, and Rejection, <hi>Pſal.</hi> 78. <hi>v.</hi> 9.</p>
+               <p>God's Mercies to them, and their Unbe<g ref="char:EOLhyphen"/>lief in <hi>Aegypt</hi> &amp; in the Wilderneſs, <hi>Pſ.</hi> 78. <hi>v.</hi> 9 to <hi>v.</hi> 14. Their Sin in <hi>Canaan, v.</hi> 14. to <hi>v.</hi> 65. <hi>Ibid.</hi> God's Mercies afterwards towards them, &amp; to <hi>David</hi> in <hi>Canaan, v</hi> 65. to the end.</p>
+               <p>
+                  <hi>Iſraels,</hi> and <hi>Jeruſalems</hi> great Affliction, their Prayer and Praiſes for their deliverance, <hi>Pſ.</hi> 79. <hi>v.</hi> 1. to the end.</p>
+               <pb n="14" facs="tcp:46699:12"/>
+               <p>
+                  <hi>Iſrael</hi> Litteral, their Forgetfulneſs of Gods Mercies, Unbelief and Rebellion, and Gods Judgments therefore, <hi>Pſ.</hi> 135. <hi>v.</hi> 14. to the end. <hi>Pſ.</hi> 106. <hi>v.</hi> 1. <hi>Pſ.</hi> 137. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 105. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 12. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 81. <hi>v.</hi> 9. to the end.</p>
+               <p>
+                  <hi>Iſrael</hi> Spiritual, God's Church conſiſting of <hi>Gentiles</hi> and <hi>Iſraelites,</hi> its Excellency here upon Earth, <hi>Pſ.</hi> 122. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 80. <hi>v.</hi> 1. to the end. Wherein alſo the Enemies rage is prayed againſt, Gods former Mercies re<g ref="char:EOLhyphen"/>membred.</p>
+               <p>
+                  <hi>Jews</hi> and <hi>Iſrael</hi> Litteral, their Return from the firſt <hi>Babyloniſh</hi> Captivity, and from other Parts, <hi>Pſ.</hi> 53. <hi>v.</hi> 5. to the end. <hi>Pſ.</hi> 126. <hi>v.</hi> 1. to the end. And moſt fully, though Myſtically, in <hi>Pſ.</hi> 807. <hi>v.</hi> 1. to the end. Which Miſtery is pointed at by the Holy Ghoſt in the laſt <hi>ver.</hi> in that <hi>Pſalm, Pſ.</hi> 14. <hi>v.</hi> 4. to the end.</p>
+               <p>
+                  <hi>Iſrael</hi> Litteral, even all the 12. Tribes, theirs and the <hi>Gentiles</hi> Converſion to Chri<g ref="char:EOLhyphen"/>ſtianity, <hi>Pſ.</hi> 22. <hi>v.</hi> 22. to the end.</p>
+               <p>
+                  <hi>Iſrael</hi> Litteral, even the 12. Tribes, their Victory over the great <hi>Turk,</hi> and over all other their open Enemies after their Return to <hi>Canaan,</hi> and their Converſion, <hi>Pſ.</hi> 48. <hi>v.</hi> 1. to the end.</p>
+               <p>
+                  <hi>Iſrael</hi> Litteral, their happy, bleſſed, and peaceable State upon this Earth, after their Return to <hi>Canaan,</hi> and Converſion to Chri<g ref="char:EOLhyphen"/>ſtianity,
+<pb n="15" facs="tcp:46699:12"/>
+                  <hi>Pſ.</hi> 102. <hi>v.</hi> 13. to <hi>v.</hi> 23. <hi>Pſ.</hi> 2. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 48. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 69. <hi>v.</hi> 33. to the end. <hi>Pſ.</hi> 87. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 97. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 132. <hi>v.</hi> 13. to the end. <hi>Pſ.</hi> 76. <hi>v.</hi> 1. to the end.</p>
+            </div>
+            <div type="part">
+               <head>K</head>
+               <p>Kings, or Princes, or States, are not ſin<g ref="char:EOLhyphen"/>fully to be truſted, in <hi>Pſ.</hi> 146. <hi>v.</hi> 1. to the end. For Kings, a Pſalm for Succeſs and Victory, <hi>Pſ.</hi> 20. <hi>v.</hi> 1. to the end.</p>
+               <p>Kings &amp; States Counſelled by God, in <hi>Pſ.</hi> 2. <hi>v.</hi> 10, 11, 12. And <hi>Pſal.</hi> 29. <hi>v.</hi> 1. to <hi>v.</hi> 3.</p>
+               <p>Kings, and Governors of Families their Pattern in <hi>David, Pſ.</hi> 101. <hi>ver.</hi> 1. to the end.</p>
+            </div>
+            <div type="part">
+               <head>L.</head>
+               <p>Love to God, that precious Grace. The Bleſſing and benefits thereof, in <hi>Pſal.</hi> 5. <hi>ver.</hi> 8. to the end. <hi>Pſal.</hi> 31. <hi>ver.</hi> 19. to the end. <hi>Pſal.</hi> 40. <hi>ver.</hi> 11. to the end. <hi>Pſal.</hi> 70. <hi>ver.</hi> 1. to the end. <hi>Pſal.</hi> 69. <hi>ver.</hi> 30. to the end. <hi>Pſal.</hi> 97. <hi>ver.</hi> 7. to the end. <hi>Pſal.</hi> 119. <hi>ver.</hi> 129. to <hi>v.</hi> 137. Alſo <hi>ver.</hi> 161. to <hi>v.</hi> 169. <hi>Pſal.</hi> 122. <hi>ver.</hi> 6. to the end. <hi>Pſal.</hi> 145. <hi>ver.</hi> 17. to the end. <hi>Pſal.</hi> 91. <hi>ver.</hi> 14. to the end.</p>
+               <p>Love to the Saints and Church of God held forth to us in the Typical names of <hi>Zi<g ref="char:EOLhyphen"/>on</hi> and <hi>Jeruſalem, Pſal.</hi> 122. <hi>ver.</hi> 6. to the end. <hi>Pſal.</hi> 137. <hi>ver.</hi> 5. to the end.</p>
+               <p>Laws of God, their Excellency, <hi>Pſal.</hi> 19. <hi>ver.</hi> 6. to the end. <hi>Pſ.</hi> 119. <hi>ver.</hi> 1. to the end.</p>
+               <pb n="16" facs="tcp:46699:13"/>
+               <p>Life, the brevity and uncertainty of mans Life, <hi>Pſal.</hi> 39. <hi>ver.</hi> 4. to the end. So in the Song of <hi>Moſes, Pſal.</hi> 90. <hi>ver.</hi> 1. to <hi>v.</hi> 13.</p>
+               <p>Lies. The puniſhment of Lyars, <hi>Pſal.</hi> 120. <hi>ver.</hi> 1. to the end. <hi>Pſal.</hi> 5. <hi>ver.</hi> 6. to the end.</p>
+            </div>
+            <div type="part">
+               <head>M</head>
+               <p>Meekneſs, with the Bleſſings promiſed to that Grace, <hi>Pſal.</hi> 25. <hi>ver.</hi> 1. to <hi>v.</hi> 11.</p>
+            </div>
+            <div type="part">
+               <head>N</head>
+               <p>New Heart, a Prayer for it, <hi>Pſal.</hi> 51. <hi>ver.</hi> 5. to <hi>v.</hi> 14.</p>
+               <p>New Songs upon new and moſt Excellent Subjects <hi>(viz.)</hi> the Victorious, peaceable, Juditiary, and glorious Kingdom of Chriſt concerning which, read and Sing the 94, 95, 96, 97, 98, 99, and the 100. <hi>Pſalms,</hi> from <hi>ver.</hi> 1. to the end.</p>
+            </div>
+            <div type="part">
+               <head>O</head>
+               <p>Old Age; A Pſalm to be delivered from ſin and danger in Old Age, <hi>Pſal.</hi> 71. <hi>ver.</hi> 9. to the end.</p>
+               <p>Oppreſſion and wrong doing, the evil, and the puniſhment thereof, <hi>Pſal.</hi> 58. <hi>ver.</hi> 1. to <hi>v.</hi> 6. <hi>Pſal.</hi> 64. <hi>ver.</hi> 1. to the end.</p>
+            </div>
+            <div type="part">
+               <head>P</head>
+               <p>Praiſing of God, the higheſt, and moſt Heavenly Ordinance, <hi>Pſal.</hi> 150. <hi>ver.</hi> 1. to the end. <hi>Pſal.</hi> 92. <hi>ver.</hi> 1. to <hi>v.</hi> 6. <hi>Pſal.</hi> 147. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 50. <hi>v.</hi> 7. to <hi>v.</hi> 16. <hi>Pſ.</hi>
+                  <pb n="17" facs="tcp:46699:13"/>57. <hi>v.</hi> 7. to the end. <hi>Pſ.</hi> 134. <hi>v.</hi> 1. to the end.</p>
+               <p>Prayer for deliverance from great dan<g ref="char:EOLhyphen"/>gers, <hi>Pſ.</hi> 40. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 71. <hi>v.</hi> 19. to the end. <hi>Pſ.</hi> 73. <hi>v.</hi> 25. to the end. <hi>Pſ.</hi> 116. <hi>v.</hi> 1. to the end.</p>
+               <p>Praiſe to God for many bleſſings and mer<g ref="char:EOLhyphen"/>cies, <hi>Pſ.</hi> 103. <hi>v.</hi> 1. to the end.</p>
+               <p>Praiſe, and a Prayer to God for delive<g ref="char:EOLhyphen"/>rance from a great and unrighteous Enemy, ſuch a Man as was great <hi>Cuſh,</hi> the <hi>Benjamite</hi> to <hi>David, Pſ.</hi> 7. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 9. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 35. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 34. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 22. <hi>v.</hi> 19. to <hi>v.</hi> 27. <hi>Pſ.</hi> 30. <hi>v.</hi> 1. to the end.</p>
+               <p>Praiſes to God for his Love and gracious providences towards his Saints, <hi>Pſ.</hi> 33. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 48. <hi>v.</hi> 8. to the end.</p>
+               <p>Praiſes to God for his Judgments againſt his Churches Enemies, <hi>Pſ.</hi> 66. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 98. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 100. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 102. <hi>v.</hi> 13. to <hi>v.</hi> 23. <hi>Pſ.</hi> 104. <hi>v.</hi> 31. to the end.</p>
+               <p>Peace with God, ſee the Head of God's Love and Mercy to Men (See Vanity.)</p>
+               <p>Patience of the Saints under God's will, Afflictions, and other Actings, <hi>Pſ.</hi> 39. <hi>v.</hi> 9. to the end.</p>
+               <p>Patience under God's Trials by the Per<g ref="char:EOLhyphen"/>ſecutions of evil Men, <hi>Pſ.</hi> 69. <hi>v.</hi> 1. to <hi>v.</hi> 22. <hi>Pſ.</hi> 35. <hi>v.</hi> 11. to the end. <hi>Pſ.</hi> 38. <hi>v.</hi> 9. to the end.</p>
+               <pb n="18" facs="tcp:46699:14"/>
+               <p>Prayer, the power and excellency there<g ref="char:EOLhyphen"/>of, as being the manifold Grace of the Spirit of God, and the means to obtain all ſaving Graces and bleſſings from God, <hi>Pſ.</hi> 66. <hi>v.</hi> 8. to the end. <hi>Pſ.</hi> 5. <hi>v</hi> 1. to <hi>v.</hi> 4. <hi>Pſ.</hi> 28. <hi>v.</hi> 6. to the end. A Pſalm praiſing of God for the Anſwer of Prayer. A Prayer againſt the Churches Enemies, <hi>Pſ.</hi> 74. <hi>v.</hi> 1. to the end. The condition and Anſwer of Prayer, <hi>Pſ.</hi> 85. <hi>v.</hi> 8. to <hi>v.</hi> 19. <hi>Pſ.</hi> 86. <hi>v.</hi> 1. to the end.</p>
+               <p>Pride againſt God and his Saints, the Cha<g ref="char:EOLhyphen"/>racter of ſuch, their Actings and puniſhment, <hi>Pſ.</hi> 10. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 31. <hi>v.</hi> 16. to the end. <hi>Pſ.</hi> 36. <hi>v.</hi> 10. to the end. <hi>Pſ.</hi> 50. <hi>v.</hi> 12. to the end. <hi>Pſ.</hi> 73. <hi>v.</hi> 1. to <hi>v.</hi> 21. <hi>Pſ. v.</hi> 1. to the end. <hi>Pſ.</hi> 86. <hi>v.</hi> 14. to the end. <hi>Pſ.</hi> 94. <hi>v.</hi> 1. to <hi>v.</hi> 8. <hi>Pſ.</hi> 138. <hi>v.</hi> 4. to the end. <hi>Pſ.</hi> 140. <hi>v.</hi> 1. to the end.</p>
+               <p>Poor in Spirit, their bleſſedneſs, ſee the head of Humility.</p>
+               <p>Poor in Eſtate, if godly, their bleſſedneſs, and God's care of them, <hi>Pſ.</hi> 9. <hi>v.</hi> 15. to the end. <hi>Pſ</hi> 10. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 12. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 14. <hi>v.</hi> 4. to the end. <hi>Pſ.</hi> 35. <hi>v.</hi> 7. to <hi>v.</hi> 11. <hi>Pſ.</hi> 37. <hi>v.</hi> 2. to <hi>v.</hi> 21. <hi>Pſ.</hi> 40. <hi>v.</hi> 13. to the end. <hi>Pſ.</hi> 70. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 61. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 68. <hi>v.</hi> 4. to <hi>v.</hi> 14. <hi>Pſ.</hi> 69. <hi>v.</hi> 29. to the end. <hi>Pſ.</hi> 72. <hi>v.</hi> 1. to <hi>v.</hi> 15. <hi>Pſ.</hi> 74. <hi>v.</hi> 18. to the end. <hi>Pſ.</hi> 82. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 86. <hi>v.</hi> 1. to <hi>v.</hi> 6. <hi>Pſ.</hi> 107. <hi>v.</hi> 40. to the end. <hi>Pſ.</hi> 109. <hi>v.</hi> 21. to the end. <hi>Pſ.</hi> 113. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 132. <hi>v.</hi> 13.
+<pb n="19" facs="tcp:46699:14"/>to the end. <hi>Pſ.</hi> 140. <hi>v.</hi> 7. to the end. <hi>Pſ.</hi> 34. <hi>v.</hi> 1. to <hi>v.</hi> 11.</p>
+               <p>Promiſes of God to his Saints. Note here, that the whole Book of Pſalms is full of Temporal, Spiritual, and Eternal Promiſes to his Saints, to be found in the ſeveral Heads of this Collection; onely obſerve, <hi>Pſ.</hi> 91. <hi>v.</hi> 1. to the end, is of all others in this book com<g ref="char:EOLhyphen"/>mended to the Reader as the rich Cabinet, wherein are Treaſured up theſe precious Ones <hi>(viz.)</hi> Perſeverance, Protection from, and Victory over Satan, and all other ſubtile Enemies, and from the Plague of our hearts, from the Peſtilence, and all ſudden Judg<g ref="char:EOLhyphen"/>ments, as alſo the Guard of Angels, Honour, Long Life. Anſwer of Prayer and Eternal Life.</p>
+            </div>
+            <div type="part">
+               <head>Q</head>
+               <p>Quietneſs and Peace with God, and in our own Conſciences, and with Men. See the head of Peace.</p>
+               <p>Queen. The Typical name of the Holy Catholick Church, and of particular Holy Churches of Chriſtians, in <hi>Pſ.</hi> 45. <hi>v.</hi> 6. to the end.</p>
+            </div>
+            <div type="part">
+               <head>R</head>
+               <p>Riches. Or Rich Men, if ſanctified ones, their bleſſedneſs and happineſs, <hi>Pſ.</hi> 45. <hi>v.</hi> 9. to the end. <hi>Pſ.</hi> 112. <hi>v.</hi> 1. to the end.</p>
+               <p>Riches that are unſanctified <hi>(viz.)</hi> given to wicked Rich Men, their puniſhments and
+<pb n="20" facs="tcp:46699:15"/>ſad ends, <hi>Pſ</hi> 73. <hi>v.</hi> 1. to <hi>v.</hi> 25. <hi>Pſ.</hi> 49. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 39. <hi>v.</hi> 4. to <hi>v.</hi> 9. <hi>Pſ.</hi> 52. <hi>v.</hi> 1. to the end.</p>
+               <p>Righteouſneſs of God. See the Head of God's Juſtice and Righteouſneſs.</p>
+               <p>Righteouſneſs of the Saints. See the head of Juſtice or Righteouſneſs.</p>
+               <p>Repentance for ſin. What the Grace is, together with the bleſſing upon true Peni<g ref="char:EOLhyphen"/>tents, ſet forth in <hi>David</hi>'s Repentance for Adultery, and Murder, <hi>Pſ.</hi> 51. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 32. <hi>v.</hi> 3. to <hi>v</hi> 8. <hi>Pſ.</hi> 34. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 38. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 95. <hi>v.</hi> 1. to the end.</p>
+               <p>Reſurrection of the Saints, <hi>Pſ.</hi> 16. <hi>v.</hi> 5. to the end.</p>
+            </div>
+            <div type="part">
+               <head>S</head>
+               <p>Sorrows under Affliction or Perſecution, <hi>Pſ.</hi> 42. <hi>v.</hi> 5. to the end. <hi>Pſ.</hi> 43. <hi>v.</hi> 1. to the end.</p>
+               <p>Sorrow under Deſertion and Sickneſs, <hi>Pſ.</hi> 88. <hi>v.</hi> 1. to the end.</p>
+               <p>Sickneſs, A Prayer for ſuch, <hi>Pſ.</hi> 6. <hi>v.</hi> 1. to <hi>v.</hi> 8. <hi>Pſ.</hi> 30. <hi>v.</hi> 1. to <hi>v.</hi> 10. The Praiſes of ſuch for Recovery, <hi>Pſ.</hi> 77. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 41. <hi>v.</hi> 4. to the end.</p>
+               <p>Salvation Temporal, Spiritual, Eternal. See in the Head of God the Fountain of all Salvations.</p>
+               <p>Sacrifices, what Sacrifices are moſt accep<g ref="char:EOLhyphen"/>table to God, both under the Law, and Goſ<g ref="char:EOLhyphen"/>pel, <hi>Pſ.</hi> 50. <hi>v.</hi> 7. to <hi>v.</hi> 16. <hi>Pſ.</hi> 51. <hi>v.</hi> 15. to <hi>v.</hi> 18.</p>
+               <p>Sin. A Prayer for Mercy and forgiveneſs
+<pb n="21" facs="tcp:46699:15"/>of ſin, <hi>Pſ.</hi> 25. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 40. <hi>v.</hi> 11. to <hi>v.</hi> 14. <hi>Pſ.</hi> 130. <hi>v.</hi> 1. to the end. <hi>Pſ</hi> 51. <hi>v.</hi> 1. to the end.</p>
+               <p>Sin. The evil and danger of it, <hi>Pſ</hi> 10. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 11. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 1. <hi>v.</hi> 4. to the end. <hi>Pſ.</hi> 5. <hi>v.</hi> 1. to the end. The evil of ſins, or preſumptuous ſins, <hi>Pſ.</hi> 19. <hi>v.</hi> 12. to the end. A Prayer againſt wicked men, <hi>Pſ.</hi> 28. <hi>v.</hi> 5. to <hi>v.</hi> 6.</p>
+               <p>Sinners not to be envied, or fretted at, <hi>Pſ.</hi> 37. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 70. <hi>v.</hi> 1. to the end.</p>
+               <p>Sinners, their puniſhments, <hi>Pſ.</hi> 9. <hi>v.</hi> 15. to 18</p>
+               <p>Sinners, their proſperity in this world, <hi>Pſ.</hi> 73. <hi>v.</hi> 3. to <hi>v.</hi> 13.</p>
+               <p>Sinners that are Juſtified, their bleſſedneſs, <hi>Pſ.</hi> 32. <hi>v.</hi> 1. to <hi>v.</hi> 8.</p>
+               <p>Sinners, God's Counſel to ſuch, in <hi>Pſ.</hi> 32. <hi>v.</hi> 8. to <hi>v.</hi> 11. <hi>Pſ.</hi> 50. <hi>v.</hi> 16. to the end. <hi>Pſ.</hi> 51. <hi>v.</hi> 15. to <hi>v.</hi> 18.</p>
+               <p>Sincerity; ſee the head of uprightneſs.</p>
+               <p>Slandering, the evil and puniſhment there<g ref="char:EOLhyphen"/>of, <hi>Pſ.</hi> 52. <hi>v.</hi> 1. to the end.</p>
+            </div>
+            <div type="part">
+               <head>T</head>
+               <p>Tongues that are evil, their puniſhment, <hi>Pſ.</hi> 39. <hi>v.</hi> 1. to <hi>v.</hi> 4.</p>
+            </div>
+            <div type="part">
+               <head>V</head>
+               <p>Unity, the bleſſedneſs of Unity and Peace in Families, Churches, and Nations, <hi>Pſ.</hi> 133. <hi>v.</hi> 1. to the end.</p>
+               <p>Uprightneſs and Sincerity, and perfect<g ref="char:EOLhyphen"/>neſs, ſo called in the Saints, both under the
+<pb n="22" facs="tcp:46699:16"/>Law, and Goſpel, as the certain ſign of a converted Perſon, the bleſſedneſs of this Teſt, of all graces and Chriſtians, See <hi>Pſ.</hi> 26. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 25. <hi>v.</hi> 8. to the end. <hi>Pſ.</hi> 37. <hi>v.</hi> 34. to the end.</p>
+            </div>
+            <div type="part">
+               <head>W</head>
+               <p>VViſdom of the Saints, Kings, or others, <hi>Pſ.</hi> 2. <hi>v.</hi> 10. to the end. <hi>Pſ.</hi> 19. <hi>v.</hi> 10. to the end. <hi>Pſ.</hi> 107. <hi>v.</hi> 40. to the end. <hi>Pſ.</hi> 119. <hi>v.</hi> 97. to <hi>v.</hi> 105.</p>
+               <p>VVord, Law, Statutes, and Ordinances of God; See their Excellency, <hi>Pſ.</hi> 119. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 19. <hi>v.</hi> 7. to the end.</p>
+            </div>
+            <div type="part">
+               <head>X</head>
+               <p>This Letter X. is not to be found in the whole Scrip<g ref="char:EOLhyphen"/>ture.</p>
+            </div>
+            <div type="part">
+               <head>Y</head>
+               <p>Years, And time to be conſidered of, <hi>Pſ.</hi> 90. <hi>v.</hi> 1. to the end.</p>
+            </div>
+            <div type="part">
+               <head>Z</head>
+               <p>Zeal for God's Glory, <hi>Pſ.</hi> 42. <hi>v.</hi> 1. to <hi>v.</hi> 5. <hi>Pſ.</hi> 69. <hi>v.</hi> 1. to <hi>v.</hi> 20. <hi>Pſ.</hi> 20. <hi>Pſ.</hi> 132. <hi>v.</hi> 1. to <hi>v.</hi> 11. <hi>Pſ.</hi> 139. <hi>v.</hi> 19. to the end.</p>
+               <p>Zeal For the Churches Proſperity, and againſt the Enemies thereof, under the Typical Name, <hi>Zion</hi> and <hi>Jeruſalem. Pſ.</hi> 51. <hi>v.</hi> 15. to the end. <hi>Pſ.</hi> 79. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 122. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 137. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 147. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 68. <hi>v.</hi> 28. to the end. <hi>Pſ.</hi> 87. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 97. <hi>v.</hi> 7. to the end. <hi>Pſ.</hi> 126. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 125. <hi>v.</hi> 13. to the end. <hi>Pſ.</hi> 162. <hi>v.</hi> 13. to the end. <hi>Pſ.</hi> 116. <hi>v.</hi> 15. to the end. <hi>Pſ.</hi> 69. <hi>v.</hi> 30. to the end. <hi>Pſ.</hi> 129. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 146. <hi>v.</hi> 5. to the end. <hi>Pſ.</hi> 149. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 9. <hi>v.</hi> 6. to the end. <hi>Pſ.</hi> 65. <hi>v.</hi> 1. to <hi>v.</hi> 6. <hi>Pſ.</hi> 76. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 99. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 48. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 74. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 14. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 53. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 50. <hi>v.</hi> 1. to <hi>v.</hi> 7. <hi>Pſ.</hi> 20. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 100. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 134. <hi>v.</hi> 1. to the end. <hi>Pſ.</hi> 135. <hi>v.</hi> 13. to the end.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:46699:16"/>
+            <head>ERRATA.</head>
+            <p>Page 2. line 5. read <hi>Pſalm</hi> 74. p. 6. l. 26. for <hi>Pſal.</hi> 80. r. 86. p. 13. l. 6. r. <hi>Pſal.</hi> 89. <hi>v.</hi> 10. to <hi>v.</hi> 19. p. 14. l. 17. r. <hi>Pſal.</hi> 107. p. 17. l. 24. for <hi>Vanity,</hi> r. <hi>
+                  <g ref="char:V">Ʋ</g>nity.</hi> p. 18. l. 15. r. <hi>Pſal.</hi> 12. <hi>v.</hi> 1. to the end. p. 21. l. 6. for <hi>the evil of ſins,</hi> r. <hi>the evil of ſecret.</hi> p. 21. l. 13. for <hi>v.</hi> 3. r. <hi>v.</hi> 1.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
